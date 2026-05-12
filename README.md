@@ -6,3 +6,5 @@ submitted to IET blockchain – Wiley, rejected for being fake (AI-generated).
 
 “Structuring authenticity: blockchain, AI, and the transformation of online integrity”, 
 submitted to JeDeM, about their application on social media and its impact on neo-slacktivism, accepted with revision. 
+
+"Cryptographic Chain-of-Custody for Last-Mile Parcel Delivery: A Blockchain–IoT System Architecture with Discrete-Event Simulation Evaluation", submitted to IET blockchain – Wiley, accepted with significant revision.
