@@ -8,3 +8,6 @@ submitted to IET blockchain – Wiley, rejected for being fake (AI-generated).
 submitted to JeDeM, about their application on social media and its impact on neo-slacktivism, accepted with revision. 
 
 "Cryptographic Chain-of-Custody for Last-Mile Parcel Delivery: A Blockchain–IoT System Architecture with Discrete-Event Simulation Evaluation", submitted to IET blockchain – Wiley, accepted with significant revision.
+
+"SECURING STATE REVENUE THROUGH BLOCKCHAIN: THE MEDIATING 
+ROLE OF PERCEIVED TRUST IN TELECOMMUNICATIONS IT GOVERNANCE", submitted to JeDeM, Major Revision or Resubmit3
