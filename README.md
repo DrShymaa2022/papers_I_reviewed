@@ -10,4 +10,4 @@ submitted to JeDeM, about their application on social media and its impact on ne
 "Cryptographic Chain-of-Custody for Last-Mile Parcel Delivery: A Blockchain–IoT System Architecture with Discrete-Event Simulation Evaluation", submitted to IET blockchain – Wiley, accepted with significant revision.
 
 "SECURING STATE REVENUE THROUGH BLOCKCHAIN: THE MEDIATING 
-ROLE OF PERCEIVED TRUST IN TELECOMMUNICATIONS IT GOVERNANCE", submitted to JeDeM, Major Revision or Resubmit3
+ROLE OF PERCEIVED TRUST IN TELECOMMUNICATIONS IT GOVERNANCE", submitted to JeDeM, Major Revision or Resubmit (I refused to review the revised manuscript because testing hypothesis using Unified Theory of Acceptance Technology (UTAUT), Technology Acceptance Model (TAM) is not my area of expertise; I accepted thinking it will contain more blockchain related parts and was able to finish it because the errors were too clear just need an academic researcher)
